@@ -1,5 +1,7 @@
-<h1 align="center">Hello there ! I am Ambroise JACQUEMET (Aka Nalistas)</h1>
+<h1 align="center">Hello there ! I am Ambroise JACQUEMET (Aka Nalistas or Solype)</h1>
 <h3 align="center">A developer in Epitech interested in all sort of techno.</h3>
+
+- 👨‍💻 my other git account is [Nalistas](https://github.com/Nalistas/)
 
 - 💬 My favourite programming language are **Python, C and asm**
 
